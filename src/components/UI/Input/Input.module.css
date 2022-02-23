@@ -1,0 +1,9 @@
+.input {
+  text-align: center;
+  padding: 1rem;
+  border: none;
+  border-radius: 15px;
+  outline: none;
+  width: 100%;
+  font-size: large;
+}
